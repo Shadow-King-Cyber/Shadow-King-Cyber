@@ -22,40 +22,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Estadísticas
-
-<br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shadow-King-Cyber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-King-Cyber&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadow-King-Cyber&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
-
----
-
-## <img src="https://media.giphy.com/media/jSKBmKkf2wr4lMkO66/giphy.gif" width="30"> Proyectos Destacados
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/Shadow-King-Cyber/BYOVD_EDRKiller">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shadow-King-Cyber&repo=BYOVD_EDRKiller&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/Shadow-King-Cyber/PasswordManager">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shadow-King-Cyber&repo=PasswordManager&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
-</div>
-
-<br>
-
----
-
 ## <img src="https://media.giphy.com/media/DSB6P0I7F2iUM/giphy.gif" width="30"> Tecnologías & Herramientas
 
 <br>
