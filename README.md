@@ -33,7 +33,7 @@
 | **Lenguajes** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /> |
 | **Frameworks** | <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-00A67E?style=flat&logo=groq&logoColor=white" /> |
 | **Herramientas** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" /> |
-| **Seguridad** | <img src="https://img.shields.io/badge/EDR-000000?style=flat&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/BYOVD-FF0000?style=flat&logo=hackthebox&logoColor=white" /> |
+| **Seguridad** | <img src="https://img.shields.io/badge/EDR-000000?style=flat&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/BYOVD-FF0000?style=flat&logo=hackthebox&logoColor=white" /> <img src="https://img.shields.io/badge/YARA-FF6633?style=flat&logo=yara&logoColor=white" /> |
 
 </div>
 
@@ -65,6 +65,11 @@
 |:---------|:------------|:----------:|
 | [BYOVD_EDRKiller](https://github.com/Shadow-King-Cyber/BYOVD_EDRKiller) | Herramienta de investigación en EDR usando BYOVD | <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /> |
 | [PasswordManager](https://github.com/Shadow-King-Cyber/PasswordManager) | Gestor de contraseñas seguro y moderno | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
+| [Password_Security_Toolkit](https://github.com/Shadow-King-Cyber/Password_Security_Toolkit) | Toolkit de auditoría y análisis de contraseñas | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
+| [Network_Scanner](https://github.com/Shadow-King-Cyber/Network_Scanner) | Scanner de red con discovery, banners y fingerprinting de OS | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
+| [Network_Traffic_Analyzer](https://github.com/Shadow-King-Cyber/Network_Traffic_Analyzer) | Sniffer de paquetes con detección de amenazas en tiempo real | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
+| [Phishing_Detector](https://github.com/Shadow-King-Cyber/Phishing-Detector) | Detector de phishing en URLs y correos electrónicos | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
+| [yara-malware-scanner](https://github.com/Shadow-King-Cyber/yara-malware-scanner) | Scanner de malware con reglas YARA e integración VirusTotal | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
 
 </details>
 
@@ -74,7 +79,7 @@
 
 | Proyecto | Descripción | Tecnología |
 |:---------|:------------|:----------:|
-| [FindthemApp](https://github.com/Shadow-King-Cyber/FindthemApp) | Aplicación para localizar personas/dispositivos | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" /> |
+| [FindthemApp](https://github.com/Shadow-King-Cyber/FindthemApp) | Motor de búsqueda facial con Android y FastAPI | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" /> |
 | [FinanzasApp](https://github.com/Shadow-King-Cyber/FinanzasApp) | App de gestión financiera personal | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
 
 </details>
