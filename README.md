@@ -46,6 +46,25 @@
 <br>
 
 <details>
+<summary><b>🛡️ Portfolio de Ciberseguridad</b></summary>
+<br>
+
+| Proyecto | Descripción | Tecnología |
+|:---------|:------------|:----------:|
+| [WiFiAudit-Pro](https://github.com/Shadow-King-Cyber/WiFiAudit-Pro) | Auditoría de seguridad WiFi — escaneo, handshake, cracking, scoring | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
+| [WebVuln-Scanner](https://github.com/Shadow-King-Cyber/WebVuln-Scanner) | Scanner de vulnerabilidades web — SQLi, XSS, CSRF, traversal | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
+| [RootkitConcept](https://github.com/Shadow-King-Cyber/RootkitConcept) | Análisis educativo de rootkits — detección, YARA, MITRE ATT&CK | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
+| [ForensicKit](https://github.com/Shadow-King-Cyber/ForensicKit) | Análisis forense digital — imágenes, timeline, esteganografía | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
+| [CryptoToolkit](https://github.com/Shadow-King-Cyber/CryptoToolkit) | Toolkit de criptografía — hashing, cifrado, análisis de contraseñas | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
+| [IoT-Honeypot](https://github.com/Shadow-King-Cyber/IoT-Honeypot) | Honeypot IoT — Telnet, HTTP, MQTT con mapeo MITRE ATT&CK | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
+| [ReverseShell-Generator](https://github.com/Shadow-King-Cyber/ReverseShell-Generator) | Generador de shells — reverse/bind, encoding, severidad OWASP | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
+| [APISentinel](https://github.com/Shadow-King-Cyber/APISentinel) | Auditor de APIs — SQLi, XSS, IDOR, headers, OWASP Top 10 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
+| [CloudSec-Auditor](https://github.com/Shadow-King-Cyber/CloudSec-Auditor) | Auditor de seguridad cloud — S3, IAM, RDS, CIS Benchmark | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
+| [StegoVault](https://github.com/Shadow-King-Cyber/StegoVault) | Análisis de esteganografía — LSB, entropía, metadatos, watermarks | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
+
+</details>
+
+<details>
 <summary><b>☕ Chatbots & IA</b></summary>
 <br>
 
@@ -81,6 +100,16 @@
 |:---------|:------------|:----------:|
 | [FindthemApp](https://github.com/Shadow-King-Cyber/FindthemApp) | Motor de búsqueda facial con Android y FastAPI | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" /> |
 | [FinanzasApp](https://github.com/Shadow-King-Cyber/FinanzasApp) | App de gestión financiera personal | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
+
+</details>
+
+<details>
+<summary><b>📊 Datos & Análisis</b></summary>
+<br>
+
+| Proyecto | Descripción | Tecnología |
+|:---------|:------------|:----------:|
+| [python-for-ai-main](https://github.com/Shadow-King-Cyber/python-for-ai-main) | Análisis de ventas con pandas y visualización | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
 
 </details>
 
