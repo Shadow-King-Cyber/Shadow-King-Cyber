@@ -104,6 +104,20 @@
 </details>
 
 <details>
+<summary><b>🌍 Multi-Lenguaje</b></summary>
+<br>
+
+| Proyecto | Descripción | Tecnología |
+|:---------|:------------|:----------:|
+| [NetProbe](https://github.com/Shadow-King-Cyber/NetProbe) | Scanner de red concurrente con goroutines y service fingerprinting | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /> |
+| [VaultCrack](https://github.com/Shadow-King-Cyber/VaultCrack) | Hash cracker multi-threaded con Rayon — MD5, SHA256, SHA512 | <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" /> |
+| [SecDash](https://github.com/Shadow-King-Cyber/SecDash) | Dashboard de seguridad web con Express/TypeScript y dark theme | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> |
+| [LogSentry](https://github.com/Shadow-King-Cyber/LogSentry) | Analizador de logs con motor de reglas regex para detección de amenazas | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /> |
+| [MemDump](https://github.com/Shadow-King-Cyber/MemDump) | Volcado y escaneo de memoria de procesos para análisis forense | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" /> |
+
+</details>
+
+<details>
 <summary><b>📊 Datos & Análisis</b></summary>
 <br>
 
