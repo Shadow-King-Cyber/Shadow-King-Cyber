@@ -2,10 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Shadow_King;Bienvenido+a+mi+perfil" alt="Typing SVG" />
   <br><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </div>
 
 <br>
@@ -30,10 +33,10 @@
 
 | Categoría | Tecnologías |
 |:---|---:|
-| **Lenguajes** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /> |
-| **Frameworks** | <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-00A67E?style=flat&logo=groq&logoColor=white" /> |
-| **Herramientas** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" /> |
-| **Seguridad** | <img src="https://img.shields.io/badge/EDR-000000?style=flat&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/BYOVD-FF0000?style=flat&logo=hackthebox&logoColor=white" /> <img src="https://img.shields.io/badge/YARA-FF6633?style=flat&logo=yara&logoColor=white" /> |
+| **Lenguajes** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" /> |
+| **Frameworks** | <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-00A67E?style=flat&logo=groq&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> |
+| **Herramientas** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Maven-D7182E?style=flat&logo=apache-maven&logoColor=white" /> <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" /> |
+| **Seguridad** | <img src="https://img.shields.io/badge/EDR-000000?style=flat&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/BYOVD-FF0000?style=flat&logo=hackthebox&logoColor=white" /> <img src="https://img.shields.io/badge/YARA-FF6633?style=flat&logo=yara&logoColor=white" /> <img src="https://img.shields.io/badge/WiFi-0078D4?style=flat&logo=wifi&logoColor=white" /> <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white" /> |
 
 </div>
 
