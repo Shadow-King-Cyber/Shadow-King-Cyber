@@ -114,6 +114,7 @@
 | [SecDash](https://github.com/Shadow-King-Cyber/SecDash) | Dashboard de seguridad web con Express/TypeScript y dark theme | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> |
 | [LogSentry](https://github.com/Shadow-King-Cyber/LogSentry) | Analizador de logs con motor de reglas regex para detección de amenazas | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /> |
 | [MemDump](https://github.com/Shadow-King-Cyber/MemDump) | Volcado y escaneo de memoria de procesos para análisis forense | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" /> |
+| [PasswordForge](https://github.com/Shadow-King-Cyber/PasswordForge) | Generador de wordlists personalizadas con constraints flexibles | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
 
 </details>
 
